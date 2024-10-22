@@ -1,9 +1,9 @@
-domain: jialuwang123321.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://jialuwang123321.github.io 
+domain: lixia1118.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://lixia1118.github.io 
 # Basic Information
-title: Jialu Wang
-position: D.Phil. Student
-affiliation: University of Oxford
+title: Li Xia
+position: Ph.D
+affiliation: Xiamen University
 #email: ta-ying.cheng [at] cs.ox.ac.uk
 email:
 
@@ -16,15 +16,15 @@ canonical: https://minimal-light-theme.yliu.me/
 # Links
 # If you don't need one of them, you may delete the corresponding line.
 #google_scholar: https://scholar.google.com/citations?user=onX3k7kAAAAJ&hl=en
-google_scholar:
+google_scholar: https://scholar.google.com.hk/citations?user=IZknFv4AAAAJ&hl=zh-CN
 cv_link: assets/files/CV.pdf
-github_link: https://github.com/jialuwang123321
-linkedin: https://www.linkedin.com/in/wang-jialu-267302280/
+#github_link: https://github.com/jialuwang123321
+#linkedin: https://www.linkedin.com/in/wang-jialu-267302280/
 
 # Images (e.g., your profile picture and your website's favicon)
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively.
 # avatar: ./assets/img/avatar.png
-avatar: ./assets/img/jialu.jpg
+avatar: ./assets/img/xiali.jpg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
