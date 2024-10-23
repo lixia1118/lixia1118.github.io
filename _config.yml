@@ -27,7 +27,7 @@ google_scholar: https://scholar.google.com.hk/citations?user=IZknFv4AAAAJ&hl=zh-
 # avatar: ./assets/img/avatar.png
 avatar: ./assets/img/xiali.jpg
 favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+favicon_dark: ./assets/img/favicon.png
 
 # repo color theme
 repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
