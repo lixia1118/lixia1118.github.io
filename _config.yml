@@ -1,6 +1,3 @@
-# -----------------------------------------------------------------------------
-# Site settings
-# -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: You
@@ -17,15 +14,20 @@ keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your o
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://alshedivat.github.io # the base hostname & protocol for your site
-baseurl: /al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
-last_updated: false # set to true if you want to display last updated in the footer
-impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
-back_to_top: true # set to false to disable the back to top button
+# Links
+# If you don't need one of them, you may delete the corresponding line.
+#google_scholar: https://scholar.google.com/citations?user=onX3k7kAAAAJ&hl=en
+google_scholar: https://scholar.google.com.hk/citations?user=IZknFv4AAAAJ&hl=zh-CN
+cv_link: assets/files/CV-LIXIA.pdf
+#github_link: https://github.com/jialuwang123321
+#linkedin: https://www.linkedin.com/in/wang-jialu-267302280/
 
-# -----------------------------------------------------------------------------
-# Theme
-# -----------------------------------------------------------------------------
+# Images (e.g., your profile picture and your website's favicon)
+# "favicon" and "favicon_dark" are used for the light and dark modes, respectively.
+# avatar: ./assets/img/avatar.png
+avatar: ./assets/img/xiali.jpg
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
 
 # repo color theme
 repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
