@@ -12,13 +12,13 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: favicon # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+#icon: favicon # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 # Links
 # If you don't need one of them, you may delete the corresponding line.
 #google_scholar: https://scholar.google.com/citations?user=onX3k7kAAAAJ&hl=en
 google_scholar: https://scholar.google.com.hk/citations?user=IZknFv4AAAAJ&hl=zh-CN
-cv_link: assets/files/CV-LIXIA.pdf
+#cv_link: assets/files/CV-LIXIA.pdf
 #github_link: https://github.com/jialuwang123321
 #linkedin: https://www.linkedin.com/in/wang-jialu-267302280/
 
