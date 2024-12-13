@@ -22,7 +22,7 @@ I hold a Ph.D. in Business Administration with a specialized focus on **Corpora
 I am particularly interested in:
 
 - The ways in which firms respond to their social performance feedback.
-- The driving factors that encourage or discourage firms from developing green innovation.
+- The factors that motivate or hinder their pursuit of green innovation.
 - The (dis)advantages that green innovation brings to firms.
 - When, How, and Why firms calibrate their green innovation strategies under some certain circumstances.
 
