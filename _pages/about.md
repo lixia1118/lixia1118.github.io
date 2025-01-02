@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>: School of Management, Xiamen University.
+subtitle: <a href='#'>School of Management, Xiamen University</a>.
 
 profile:
   align: right
