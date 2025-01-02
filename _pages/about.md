@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>School of Management, Xiamen University</a>.
+subtitle: <a href='https://smr.xmu.edu.cn/TeacherWeb/Teacher_Details_2022.aspx?User_ID=1256'>School of Management, Xiamen University</a>.
 
 profile:
   align: right
@@ -12,6 +12,8 @@ profile:
     <p>Room 627</p>
     <p>Bao Xin Li Ying Building</p>
     <p>Xiamen City, Fujian Province, PR China</p>
+    <p>Contact: <a href="mailto:xiali@xmu.edu.cn">xiali@xmu.edu.cn</a></p>
+
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
