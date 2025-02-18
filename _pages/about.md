@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://smr.xmu.edu.cn/TeacherWeb/Teacher_Details_2022.aspx?User_ID=1256'>School of Management, Xiamen University</a>.
+subtitle: School of Management, Xiamen University.
 
 profile:
   align: right
