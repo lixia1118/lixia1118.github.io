@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: School of Management, Xiamen University.
+subtitle: I'm currently an Assistant Professor at School of Management, Xiamen University.
 
 profile:
   align: right
