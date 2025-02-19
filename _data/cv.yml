@@ -4,7 +4,7 @@
     - name: Full Name
       value: Li Xia
     - name: Email
-      value: xiali[at]xmu.edu.cn
+      value: xiali@xmu.edu.cn
 
 - title: Education
   type: time_table
@@ -13,24 +13,19 @@
       institution: University of Science and Technology of China, Hefei, China
       year: 2019 - 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Business Administration
+
     - title: Bachelor
       institution: Dalian University of Technology, Dalian, China
       year: 2015 - 2019
       description:
-        - Description 1.
-        - Description 2.
+        - Human Resource Management
 
-- title: Experience
+- title: Employment
   type: time_table
   contents:
     - title: Assistant Professor
-      institution: School of Management, Xiamen University
+      institution: School of Management, Xiamen University, Fujian, China
       year: 2024 - Now
 
     - title: Visiting Scholar
