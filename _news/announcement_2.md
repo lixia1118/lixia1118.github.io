@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Receive an invitation of R&R at *R&D Management* Journal (Minor).
+Receive a Minor Revise & Resubmit decision from *R&D Management* Journal.
