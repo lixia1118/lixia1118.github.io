@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Receive an invitation of R&R at *Asia Pacific Journal of Managemet* Journal (Major).
+Receive an invitation of R&R at *Asia Pacific Journal of Managemet* (Major).
