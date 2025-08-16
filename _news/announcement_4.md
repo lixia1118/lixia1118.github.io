@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Receive an acceptance letter from *R&D Management*'s editors.
+Received an Acceptance decision from *R&D Management* Journal.
