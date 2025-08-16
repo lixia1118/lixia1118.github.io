@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Receive a Minor Revise & Resubmit decision from *R&D Management* Journal.
+Received a Minor Revise & Resubmit decision from *R&D Management* Journal.
