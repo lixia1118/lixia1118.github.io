@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-06-25
+date: 2026-07-13
 inline: true
 related_posts: false
 ---
 
-Received a Major Revise & Resubmit decision from *Asia Pacific Journal of Managemet*.
+Received an Acceptance decision from *Asia Pacific Journal of Management*.
